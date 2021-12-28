@@ -1,0 +1,20 @@
+Levenshtein Distance 1.2
+Close is further than far if you travel by car.
+
+Module ID: levenshteinDistance
+
+Created by: Tortoise
+
+Manual available here: https://ktane.timwi.de/HTML/levenshteinDistance.html
+
+---
+Build 1.2 notes:
+- Fixed not filtered logging
+
+Build 1.1 notes:
+- Manual extended
+- Logging embellished
+- Solved text changed
+
+Build 1.0 notes:
+- Initial release

@@ -1,4 +1,4 @@
-Levenshtein Distance 1.2
+Levenshtein Distance 1.4
 Close is further than far if you travel by car.
 
 Module ID: levenshteinDistance
@@ -8,6 +8,12 @@ Created by: Tortoise
 Manual available here: https://ktane.timwi.de/HTML/levenshteinDistance.html
 
 ---
+Build 1.4 notes:
+- Added Twich Plays support and autosolver by QuinnWuest
+
+Build 1.3 notes:
+- Added SVG file (thanks to JG)
+
 Build 1.2 notes:
 - Fixed not filtered logging
 

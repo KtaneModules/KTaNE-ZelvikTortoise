@@ -5,7 +5,7 @@ Module ID: levenshteinDistance
 
 Created by: Tortoise
 
-Manual available here: https://ktane.timwi.de/HTML/levenshteinDistance.html
+Manual available here: https://ktane.timwi.de/HTML/Levenshtein%20Distance.html
 
 ---
 Build 1.4 notes:
